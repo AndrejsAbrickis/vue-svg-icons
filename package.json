@@ -21,6 +21,9 @@
     "lint-staged": "^9.5.0",
     "vue-template-compiler": "^2.6.11"
   },
+  "resolutions": {
+    "set-value": "^3.0.1"
+  },
   "eslintConfig": {
     "root": true,
     "env": {
